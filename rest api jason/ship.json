@@ -1,0 +1,19 @@
+{
+    "supervisor_name": "Hadar Sharabi",
+    "City": ["Jerusalem", "Tel Aviv", "Petach Tikva", "hifa", "Eilat", "Itamar"],
+    "orders":[
+       { "Estimated time": "14 Days",
+        "product_name": "PlayStaion",
+        "ship_date": "2022-05-17",
+        "ship_mode": "Send",
+        "address":"Petach Tikva"
+        },
+        {
+            "id": 2,
+            "product_name":"PC",
+            "ship_date":"2022-05-20",
+            "ship_status": "Waiting",
+            "address": "Jerusalem"
+        }
+    ]
+}
